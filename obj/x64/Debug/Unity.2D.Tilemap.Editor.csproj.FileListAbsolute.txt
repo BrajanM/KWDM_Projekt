@@ -1,0 +1,1 @@
+C:\Users\Brajan\Renalize\obj\x64\Debug\Unity.2D.Tilemap.Editor.csproj.CoreCompileInputs.cache

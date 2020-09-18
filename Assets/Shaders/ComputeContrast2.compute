@@ -1,0 +1,19 @@
+﻿#pragma kernel ComputeContrast
+#include "UnityCG.cginc"
+
+//RWTexture2D<float4> CalculatedImage;
+RWTexture2D<half4> Image;
+Texture2D<half4> Image2D;
+
+
+[numthreads(8, 8, 1)]
+void ComputeContrast(uint3 id : SV_DispatchThreadID)
+{
+    half4 ImageValues = Image[id.xy];
+    half4 Image2DValues = Image2D[id.xy];
+
+    Image[id.xy] = clamp(Image2DValues /1.1, 0, 1);
+
+
+
+}

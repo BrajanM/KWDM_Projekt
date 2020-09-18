@@ -1,0 +1,2 @@
+C:\Users\Brajan\Renalize\obj\x64\Debug\UnityEngine.TestRunner.csprojResolveAssemblyReference.cache
+C:\Users\Brajan\Renalize\obj\x64\Debug\UnityEngine.TestRunner.csproj.CoreCompileInputs.cache

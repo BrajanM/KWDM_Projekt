@@ -1,0 +1,2 @@
+C:\Users\Brajan\Renalize\obj\x64\Debug\Unity.2D.Sprite.Editor.csprojResolveAssemblyReference.cache
+C:\Users\Brajan\Renalize\obj\x64\Debug\Unity.2D.Sprite.Editor.csproj.CoreCompileInputs.cache

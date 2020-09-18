@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z+mPEUvgOOJD8FCN5Uj3NvchSMfl9eiZVCOaMrYKZ7O51qN33a/sbI/SITX3NuycRQWuJzsuUn1gHEX07pw8bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brajan\\Renalize\\Assembly-CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brajan\\.nuget\\packages\\gdcm-sharp\\2.4.4-alpha\\gdcm-sharp.2.4.4-alpha.nupkg.sha512",
+    "C:\\Users\\Brajan\\.nuget\\packages\\system.drawing.common\\5.0.0-preview.4.20251.6\\system.drawing.common.5.0.0-preview.4.20251.6.nupkg.sha512",
+    "C:\\Users\\Brajan\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
